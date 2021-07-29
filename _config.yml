@@ -1,5 +1,5 @@
-sidebar_title: "Journal."
-sidebar_subtitle: "隻言片語<br>於此匯聚"
+sidebar_title: "Nekohit Dev Blog"
+sidebar_subtitle: "A Better Patreon"
 
 truncate_len: 60
 
@@ -9,3 +9,4 @@ rss: atom.xml
 # Please do not use the two services at the same time.
 livere: # [data-uid] for livere.com
 disqus: # [short_name] for disqus.com
+no_comments: true

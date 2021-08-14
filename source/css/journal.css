@@ -603,8 +603,8 @@ a {
         .stream-container .post .post-body-wrapper {
           padding: 20px 20px 35px 20px; } }
       .stream-container .post .post-body-wrapper .post-body {
-        font-size: 16px;
-        line-height: 1.5em; }
+        font-size: 19px;
+        line-height: 1.75em; }
         .stream-container .post .post-body-wrapper .post-body * {
           word-wrap: break-word; }
         .stream-container .post .post-body-wrapper .post-body img {
@@ -613,7 +613,7 @@ a {
           overflow: hidden; }
         @media screen and (max-width: 1020px) {
           .stream-container .post .post-body-wrapper .post-body {
-            font-size: 16px; } }
+            font-size: 19px; } }
         .stream-container .post .post-body-wrapper .post-body .toc {
           float: right;
           border-radius: 5px;
@@ -623,7 +623,7 @@ a {
           margin-bottom: 30px; }
           .stream-container .post .post-body-wrapper .post-body .toc,
           .stream-container .post .post-body-wrapper .post-body .toc * {
-            font-size: 16px; }
+            font-size: 19px; }
           .stream-container .post .post-body-wrapper .post-body .toc ul {
             list-style: decimal;
             padding: 0 0 0 20px;
@@ -631,7 +631,7 @@ a {
           @media screen and (max-width: 1020px) {
             .stream-container .post .post-body-wrapper .post-body .toc,
             .stream-container .post .post-body-wrapper .post-body .toc * {
-              font-size: 14px; } }
+              font-size: 17px; } }
     .stream-container .post .post-pagination {
       padding: 20px 35px;
       width: 100%;
